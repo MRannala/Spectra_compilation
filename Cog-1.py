@@ -2,7 +2,11 @@
 """
 Created on Thu Dec 15 13:15:59 2016
 
-@author: m_user
+This script will combine the photon spectra due to direct and bremsstrahlung photons from a .COG file to produce a single spectrum 
+that can be used within an MCNP input file.
+
+
+@author: Magnus Rannala
 """
 
 import pandas as pd
